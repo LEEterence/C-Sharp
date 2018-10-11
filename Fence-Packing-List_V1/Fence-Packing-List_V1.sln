@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fence-Packing-List_V1", "Fence-Packing-List_V1\Fence-Packing-List_V1.csproj", "{44B47FD3-5AC6-4443-BE43-F603D8FF386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B47FD3-5AC6-4443-BE43-F603D8FF386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B47FD3-5AC6-4443-BE43-F603D8FF386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B47FD3-5AC6-4443-BE43-F603D8FF386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B47FD3-5AC6-4443-BE43-F603D8FF386A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3D3EF4-074A-40B0-9BF9-4C696AADB2AE}
+	EndGlobalSection
+EndGlobal
